@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
-import NavigationLinks from '@/app/(delete-this-and-modify-page.tsx)/NavigationLinks';
-import ThemeSwitch from '@/app/(delete-this-and-modify-page.tsx)/ThemeSwitch';
+import NavigationLinks from '@/components/layout/NavigationLinks';
+import ThemeSwitch from '@/components/ui/ThemeSwitch';
 
 const NavigationBar = () => {
     return (
